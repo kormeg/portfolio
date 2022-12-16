@@ -6,7 +6,7 @@
   
 |#  |Название проекта    |Описание проекта              |Стек
 |---|--------------------|------------------------------|--------------------
-|1.|[Отток Клиентов Телеком компании](https://github.com/kormeg/portfolio/tree/main/telecom_final)|Цель проекта: Построить модель для прогноза оттока клиентов.|pandas, numpy, matplotlib, seaborn, sklearn, catboost, lightgbm, phik 
+|1.|[Отток Клиентов Телеком компании](https://github.com/kormeg/portfolio/tree/main/telecom_final)|Цель проекта: Построить модель для прогноза оттока клиентов. Разобраться в факторах и причинах прекращения пользования услугами компании|pandas, numpy, matplotlib, seaborn, sklearn, catboost, lightgbm, phik 
   
   
 to be continued...
