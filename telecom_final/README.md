@@ -1,6 +1,6 @@
 # Отток Клиентов Телеком компании 
   
-[html](https://github.com/kormeg/portfolio/blob/main/telecom_final/telecom_final.html)/[ipynb](https://github.com/kormeg/portfolio/blob/main/telecom_final/telecom_final.ipynb)
+[ipynb](https://github.com/kormeg/portfolio/blob/main/telecom_final/telecom_final.ipynb)
 ## Описание проекта  
   
 Требуется изучить информацию о пользователях телеком компании. Построить модель для прогноза оттока клиентов. Разобраться в факторах и причинах прекращения пользования услугами компании.
